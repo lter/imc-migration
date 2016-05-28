@@ -29,3 +29,13 @@ Vocabularies, nodes are migrated -- a collection of assets will follow.
 |Webform||||			
 |weblink|	4	|deprecate||	
 
+Here is a list of vocabularies, their terms, and suggested actions.
+|Vocabulary Name|Used By	Module-content type| Vid|	# terms|	Plan / Notes|
+|Forums	|Forum topic	|	3	|2	||
+|Help	||6	|3	||
+|IM Categories|Book page, Project	|7|100+||
+|Links||4|21||
+|Project release API compatibility|	Project, Project release	|2|1|deprecate|
+|Project types		||1	|0|	deprecate|
+|Working Groups	|Project, Story	|	5|32||
+|LTER Sites|	Book page	|	8	|26||
