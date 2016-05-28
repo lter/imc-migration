@@ -30,6 +30,8 @@ Vocabularies, nodes are migrated -- a collection of assets will follow.
 |weblink|	4	|deprecate||	
 
 Here is a list of vocabularies, their terms, and suggested actions.
+
+
 |Vocabulary Name|Used By	Module-content type| Vid|	# terms|	Plan / Notes|
 |---|---|---|---|---|
 |Forums	|Forum topic	|	3	|2	||
