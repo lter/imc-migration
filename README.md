@@ -31,6 +31,7 @@ Vocabularies, nodes are migrated -- a collection of assets will follow.
 
 Here is a list of vocabularies, their terms, and suggested actions.
 |Vocabulary Name|Used By	Module-content type| Vid|	# terms|	Plan / Notes|
+|---|---|---|---|---|
 |Forums	|Forum topic	|	3	|2	||
 |Help	||6	|3	||
 |IM Categories|Book page, Project	|7|100+||
